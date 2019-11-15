@@ -1,6 +1,8 @@
-# buscador_de_gifs
+# Buscador de GIFs
 
 Criação do App - Buscador de Gifs com Flutter e APIs.
+
+API utilizada "GIPHY API".
 
 ## Getting Started
 
